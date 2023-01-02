@@ -10,6 +10,7 @@ public class TestApplication {
 		//531
 		//asdf
 		SpringApplication.run(TestApplication.class, args);
+		
 	}
 
 }
